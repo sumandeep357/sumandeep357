@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... CODING AND CRETAING PROJECTS
 - 🌱 I have Experience in Data Analysis using Power BI, Tableau, Excel, Python, SQL
 - 💞️ I’m looking to collaborate on ... Projects related to Data Analyst
-- I am Looking for a Data Analyst Job.
 - 📫 How to reach me ... THROUGH  Linkedin https://www.linkedin.com/in/sumandeepsharma0893
 
 <!---
